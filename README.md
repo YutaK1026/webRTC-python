@@ -1,0 +1,2 @@
+# webRTC-python
+webRTCのIPアドレスなどの情報をpythonで取り扱えるかテストするためのリポジトリ
