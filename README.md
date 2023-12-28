@@ -4,4 +4,4 @@ webRTCのIPアドレスなどの情報をpythonで取り扱えるかテストす
 ## 使い方
 1. python signaling.py
 2. python -m http.server 8001
-3. http://localhost:8000/main.htmlにアクセス
+3. http://localhost:8001/main.htmlにアクセス
